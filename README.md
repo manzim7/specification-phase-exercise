@@ -4,7 +4,11 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+
+Danial: [Github](https://github.com/catw1thtea)
+Denise: [Github](https://github.com/denisekos)
+Jay : [Github](https://github.com/Jayyu2005)
+Zee : [Github](https://github.com/manzim7)
 
 ## Review of the Current Application
 
